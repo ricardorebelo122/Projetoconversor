@@ -1,3 +1,4 @@
+// MainActivity.kt
 package com.example.projetoconversor
 
 import android.os.Bundle
